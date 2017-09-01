@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2016-04-20T00:00:00"
+date = "2017-04-01T00:00:00"
 draft = false
 
 widget = "about"
@@ -12,31 +12,26 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning",
+    "Data Mining"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Computer Science"
+  institution = "Peking University"
+  year = 2014
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a pre-final BSc student at School of Electronics Engineering and Computer Science, Peking University. I am a research assistant in the System Research Lab, Institute of Software, Peking University, under the guidance of Prof. Xuanzhe Liu. I have been interned in Microsoft Research Asia, machine learning group, under the guidance of Prof. Jiang Bian.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests include Machine Learning and its applications in natural language processing, information extraction and real-world data analysis. Particularly, I am interested in applying time-series data analysis, such as financial stock and user navigation behavior.
+
+
+

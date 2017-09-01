@@ -1,6 +1,6 @@
-baseurl = "https://example.com"
+baseurl = "https://tpbull.github.io"
 title = "Academic"
-copyright = "&copy; 2016 Your Name"
+copyright = "&copy; 2017 Ziniu Hu"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -19,16 +19,15 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
-  organization = "Stanford University"
+  name = "Ziniu Hu"
+  role = "Bachelor of Computer Science"
+  organization = "Peking University"
   organization_url = ""
-  avatar = "portrait.jpg"
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "me.jpg"
+  email = "bull@pku.edu.cn"
+  address = "Peking University, No.5 Yiheyuan Road Haidian District,Beijing, P.R.China"
+  phone = "18810999022"
+  skype = "acbull"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -140,7 +139,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/tpBull"
 
 
 # Navigation Links
@@ -167,16 +166,6 @@ defaultContentLanguageInSubdir = false
   name = "Projects"
   url = "#projects"
   weight = 4
-
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
 
 # Taxonomies.
 [taxonomies]
