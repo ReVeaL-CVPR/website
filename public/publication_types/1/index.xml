@@ -6,17 +6,16 @@
     <description>Recent content in 1 on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Ziniu Hu</copyright>
     <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://tpbull.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>Through the Castle Tunnels: an In-Depth Analysis of Inter-App Navigation on Android</title>
+      <link>https://tpbull.github.io/publication/interapp-navigation/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tpbull.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>https://tpbull.github.io/publication/interapp-navigation/</guid>
+      <description></description>
     </item>
     
   </channel>
